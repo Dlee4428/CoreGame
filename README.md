@@ -66,6 +66,19 @@ Each class should at the minimum have 4 skills that fit their kit described abov
 
 # Tools
 
+## Game Editor
+test
+## UI for Game Editor
+test
+## Character Editor
+test
+## File Format
+test
+## Particle System
+test
+## Animation System
+test
+
 # Graphics
 
 # **Networking**
