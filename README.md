@@ -67,7 +67,8 @@ Each class should at the minimum have 4 skills that fit their kit described abov
 # Tools
 
 ## Game Editor
-test
+Loading models into the game space. Being able to scale,rotate, move and determine whether they have/are Collided with something. Camera movement(wasd and mouse to look around. Click to place?). When a model is selected (Knight ,Mage, Assassin ,Priest) a list of parameters will appear in the inspector that can be changed the object can then be moved around the game space as well.
+
 ## UI for Game Editor
 test
 ## Character Editor
