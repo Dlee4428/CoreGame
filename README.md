@@ -80,13 +80,22 @@ A menu that has the list of objects that can be placed in the game space. A insp
 1. Starting point, end point, out of bounds point (Spawn points will be selected and units will keep spawn by user click).
 
 ## Character Editor
-test
+Controls character stats such as requirement for Level, str, dex, int, MP (Magic/Mana/Mist Points), EXP(Experience Points), Defense Power, Evasion, and setting abilities. Also controls NPC stats ex. Guards as well.
+
+![636141782667101293](https://user-images.githubusercontent.com/44447609/51506213-2d704b00-1db9-11e9-8b00-cf2b953a8bee.jpg)
+
 ## File Format
-test
+Json save character stats and account of player or database(MySQL).
+
+![wc3_editor_objects](https://user-images.githubusercontent.com/44447609/51506261-6e685f80-1db9-11e9-89db-57f6342d7f0e.png)
+
 ## Particle System
-test
+contain four different particle effects which will used by certain characters in the game. The particles will be controlled with things such as their size, brightness, lifespan, speed, rotation, duration and maximum amount of particles.
+
 ## Animation System
-test
+control animations of the player character and NPCs
+
+![cap1](https://user-images.githubusercontent.com/44447609/51506291-a5d70c00-1db9-11e9-8328-531cec2b63be.JPG)
 
 # Graphics
 
