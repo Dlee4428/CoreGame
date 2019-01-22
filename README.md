@@ -72,7 +72,13 @@ Loading models into the game space. Being able to scale,rotate, move and determi
 ![worldmap-alterac-old](https://user-images.githubusercontent.com/44447609/51505961-af5f7480-1db7-11e9-9774-990f7c47d40f.jpg)
 
 ## UI for Game Editor
-test
+A menu that has the list of objects that can be placed in the game space. A inspector that shows that parameters for the object. Example, scale, rotate, and location. Once placed in world and selected again the inspector will show all parameters plus a delete option.
+
+1. Character spawn menu (NPC, player char, animal).
+1. Terrain (forest, soil, snow covered land, water). 
+1. Asset (Tree, Rock, building, flags). 
+1. Starting point, end point, out of bounds point (Spawn points will be selected and units will keep spawn by user click).
+
 ## Character Editor
 test
 ## File Format
